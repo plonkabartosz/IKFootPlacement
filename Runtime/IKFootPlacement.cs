@@ -134,7 +134,7 @@ public class IKFootPlacement : MonoBehaviour
     [Range(0, 5)]
     [Tooltip("Value that controls the time it takes to adjust the feet position and rotation when in a stationary state but rotated above \"maxStationaryRotationAngle\" value. " +
              "\n\nTips: " +
-             "\n- default value = 0.006, " +
+             "\n- default value = 0.06, " +
              "\n- if this value is set to 0, the adjustment will be instant and make the feet slide, " +
              "\n- if the \"Max Stationary Rotation\" value is set to 0 or 360, this value will not change anything.")]
     public float stationaryToRotateSmoothing = 0.06f;
