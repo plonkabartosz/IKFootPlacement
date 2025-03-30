@@ -60,11 +60,17 @@ You can download and install this package in one of two ways:
    - Follow the instructions shown in the Inspector tab,
    - Begin setup by pressing `Start Setup` button,
    - If done properly You can remove the IKSetup script.
+  
+2. **Bake the animation onto IK controls:**
+   Use software like Blender, Autodesk Maya, etc. to bake the animation onto the newly created IK Controls.
 
-2. **Configure the Script:**  
+   You may also use (but not recommended due to bad retargeting quality) the `Bidirectional Motion Transfer` functionality that is a part of Animation Rigging package.
+   You will find more information in the [Animation Rigging package Manual](https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.1/manual/BidirectionalMotionTransfer.html).
+
+3. **Configure the Script:**  
    After adding the IKFootPlacement script, adjust it's parameters in the Inspector according to Your character’s setup.
 
-3. **Run the Scene:**  
+4. **Run the Scene:**  
    When you run the scene, the script will cast rays beneath the character’s feet, calculate the appropriate offsets using the `iKFootPlacementJob` and adjust the IK controls in real time.
 
 ## License
