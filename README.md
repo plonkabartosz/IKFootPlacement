@@ -10,7 +10,7 @@ IKFootPlacement is a free C# script for Unity engine that controls the position 
 - Support any number of legs on a character,
 - Has multiple parameters to controls the script,
 - Uses IAnimationJob interface for better optimisation,
-- The IKSetup script provides a quick and automatic configuration,
+- The IKSetup script provides a quick and automatic configuration.
 
 ![IK_02](assets~/ikfootplacement_02.jpg)
 
