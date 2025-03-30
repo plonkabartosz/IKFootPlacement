@@ -18,13 +18,13 @@ IKFootPlacement is a free C# script for Unity engine that controls the position 
 
 The repository includes the following C# scripts:
 
-1. **iKFootPlacement.cs**  
+1. **IKFootPlacement.cs**  
    A MonoBehaviour class that casts a raycast to detect the ground surface and passes the necessary information to the iKFootPlacementJob struct,
 
-2. **iKFootPlacementJob.cs**  
+2. **IKFootPlacementJob.cs**  
    An IAnimationJob struct that calculates and applies the position and rotation offset for each foot,
 
-3. **iKSetup.cs**  
+3. **IKSetup.cs**  
    A MonoBehaviour class that automates the configuration of the IKFootPlacement script on Your character, simplifying the setup process,
 
 4. Other, additional scripts.
