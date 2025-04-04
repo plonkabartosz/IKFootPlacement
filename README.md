@@ -79,4 +79,4 @@ This project and it's contents are distributed under the [CC BY 4.0 Internationa
 
 ## Video Presentation
 
-You can watch the video presentation of this script here: [LINK](https://www.youtube.com/@lifelike-motion)
+You can watch the video presentation of this script here: [LINK](https://www.youtube.com/watch?v=YBsguhSdxbE)
