@@ -6,7 +6,7 @@
   "unity": "2020.2",
   "unityRelease": "0f1",
   "documentationUrl": "https://github.com/plonkabartosz/IKFootPlacement?tab=readme-ov-file#readme",
-  "licensesUrl": "https://github.com/plonkabartosz/IKFootPlacement?tab=CC-BY-4.0-1-ov-file",
+  "licensesUrl": "https://github.com/plonkabartosz/IKFootPlacement?tab=MIT-1-ov-file#readme",
   "dependencies": {
     "com.unity.animation.rigging": "1.1.1"
   },
