@@ -3,7 +3,7 @@
 // Author: Bartosz Plonka
 // Year: 2025
 // Source: https://github.com/plonkabartosz/IKFootPlacement.git
-// License: CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)
+// License: MIT License (https://opensource.org/license/mit)
 // ----------------------
 
 using System.Collections.Generic;

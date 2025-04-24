@@ -75,7 +75,7 @@ You can download and install this package in one of two ways:
 
 ## License
 
-This project and it's contents are distributed under the [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
+This project and it's contents are distributed under the [MIT License](https://opensource.org/license/mit) open source license.
 
 ## Video Presentation
 
