@@ -44,11 +44,12 @@ You can download and install this package in one of two ways:
    - Choose `Add package from git URL...`,
    - In the text field type:
 
-   `https://github.com/plonkabartosz/IKFootPlacement.git`
-
-2. **Download from the Unity Asset Store:**  
-   The asset is also freely available on the Unity Asset Store: 
-   [IKFootPlacement - Free IK Script](https://u3d.as/3vyY)
+      ```bash
+      git clone https://github.com/plonkabartosz/BlendshapePerFrame.git
+      ```
+2. **Download from the Unity Asset Store:**
+   
+   - The asset is also freely available on the Unity Asset Store: [IKFootPlacement - Free IK Script](https://u3d.as/3vyY)
 
 ## Usage
 
