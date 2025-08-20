@@ -45,7 +45,7 @@ You can download and install this package in one of two ways:
    - In the text field type:
 
       ```bash
-      git clone https://github.com/plonkabartosz/BlendshapePerFrame.git
+      https://github.com/plonkabartosz/IKFootPlacement.git
       ```
 2. **Download from the Unity Asset Store:**
    
