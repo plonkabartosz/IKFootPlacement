@@ -1,0 +1,13 @@
+{
+    "name": "com.plonkabartosz.Ikfootplacement",
+    "rootNamespace": "",
+    "references": ["Unity.Animation.Rigging"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+	"defineConstraints": [],
+    "noEngineReferences": false
+}
